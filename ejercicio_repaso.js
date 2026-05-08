@@ -67,3 +67,4 @@ git add .
 git commit -m "Agrego README"
 // texto entre comillas se cambia por el nombre del archivo js o el que se quiera subir
 git push*/
+// git init inicializa un repositorio vacio en la carpeta que estemos ocupando en la terminal
