@@ -57,7 +57,8 @@ console.log("puede conducir", edad >= 18 || tienePermiso);
 let usuario = "admin";
 let password = "1234";
 console.log(usuario === "admin" && password === "1234");
-console.log("el usuario es:", usuario, "y su contraseña es:", password)
+console.log("el usuario es:", usuario, "y su contraseña es:", password);
+console.log(`el usuario es: ${usuario} y su contraseña es: ${password}`);
 
 /* para subir a repositorio
 el archivo debe estar dentro de la carpeta que corresponde al repositorio en windows, si no, habra que crear un nuevo repositorio
