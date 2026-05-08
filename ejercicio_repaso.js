@@ -57,3 +57,11 @@ console.log("puede conducir", edad >= 18 || tienePermiso);
 let usuario = "admin";
 let password = "1234";
 console.log(usuario === "admin" && password === "1234");
+
+/* para subir a repositorio
+el archivo debe estar dentro de la carpeta que corresponde al repositorio en windows, si no, habra que crear un nuevo repositorio
+en terminal bash de visualstudio:
+git add .
+git commit -m "Agrego README"
+// texto entre comillas se cambia por el nombre del archivo js o el que se quiera subir
+git push
