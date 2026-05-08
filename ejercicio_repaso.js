@@ -64,4 +64,4 @@ en terminal bash de visualstudio:
 git add .
 git commit -m "Agrego README"
 // texto entre comillas se cambia por el nombre del archivo js o el que se quiera subir
-git push
+git push*/
